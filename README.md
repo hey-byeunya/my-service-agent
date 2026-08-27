@@ -14,7 +14,7 @@
 
 | 파일 | 내용 |
 |---|---|
-| [design-packet.md](design-packet.md) | 설계 내용 전부 — 챗봇에게 줄 지시문, 도구 4개의 약속, 권한, 실패했을 때 할 일, 시험 문항 8개, 기록 양식 |
+| [design-packet.md](design-packet.md) | 설계 내용 전부 — 챗봇에게 줄 지시문, 도구 4개의 약속, 권한, 실패했을 때 할 일, 시험 문항 8개, 기록 양식. 맨 뒤에 **자기 점검표(동료 점검 대체)**와 다음 회차 계획 |
 | [my-agent/tool-definition.md](my-agent/tool-definition.md) | 앞선 실습에서 만든 재고 조회 도구의 약속 문서 |
 | [my-agent/traces/](my-agent/traces/) | 앞선 실습의 **실행 기록 원문** 4건. 아래 설계 결정들의 근거가 여기 있다 |
 | [my-agent/scorecard.md](my-agent/scorecard.md) | 실습에서 **돌려 보기 전에** 미리 정해 둔 채점 기준 |
