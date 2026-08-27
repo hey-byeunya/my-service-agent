@@ -10,6 +10,17 @@
 
 **챗봇은 내 물건 정보를 직접 고치지 않는다.** 바꾸는 게 좋겠다고 제안하는 것까지만 하고, 실제로 바꾸는 건 사람이 앱 화면에서 직접 누른다.
 
+## 안내 대상 서비스
+
+| | |
+|---|---|
+| 서비스 | [already-got-it.vercel.app](https://already-got-it.vercel.app) — 실제 서비스. 로그인이 필요하다 |
+| 로그인 없이 둘러보기 | [/preview](https://already-got-it.vercel.app/preview) · [/preview/wishlist](https://already-got-it.vercel.app/preview/wishlist) — 예시 데이터로 화면만 보는 곳. 저장되지 않는다 |
+| 서비스 저장소 | [github.com/hey-byeunya/already-got-it](https://github.com/hey-byeunya/already-got-it) — Next.js + Supabase. 이 설계가 인용하는 규칙 문서가 여기 있다 |
+| 이 저장소 | [github.com/hey-byeunya/my-service-agent](https://github.com/hey-byeunya/my-service-agent) — 챗봇 설계 문서만 있다. 코드는 없다 |
+
+챗봇 설계가 근거로 인용하는 것은 서비스 저장소의 `PRD.md`와 `docs/rules/` 아래 문서들이다. 있템·위시의 입력 규칙, 로그인 절차, 데이터 격리 방식이 거기 정리되어 있어서, 이 설계에 나오는 권한 구분과 확인 절차는 새로 만든 것이 아니라 그 규칙을 옮겨 온 것이다.
+
 ## 문서
 
 | 파일 | 내용 |
